@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="//exclusionzones">
+    <exclusionzone tag="ship_xl_short1" x="4000" y="2000" z="8000" />
+    <exclusionzone tag="ship_xl_short2" x="4000" y="2000" z="4000" />
+  </add>
+
+</diff>

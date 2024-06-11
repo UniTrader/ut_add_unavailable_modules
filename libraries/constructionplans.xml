@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plans>
+  <plan id="player_1718052243" name="{20102,1311}" description="" source="local">
+    <entry index="1" macro="landmarks_tel_tradestation_01_center_ut01_macro"/>
+    <entry index="2" macro="landmarks_tel_tradestation_01_ringcenter_01_macro" connection="connectionsnap_center">
+      <predecessor index="1" connection="connectionsnap_centerring"/>
+      <offset>
+        <position x="-0.00017" z="-4944.662"/>
+      </offset>
+    </entry>
+    <entry index="3" macro="landmarks_tel_tradestation_01_extension_01_macro" connection="connectionsnap_center">
+      <predecessor index="1" connection="connectionsnap_centereext"/>
+      <offset>
+        <position x="-0.0001748" z="4724.363"/>
+      </offset>
+    </entry>
+    <entry index="4" macro="landmarks_tel_tradestation_01_centerend_01_macro" connection="connectionsnap_centerend">
+      <predecessor index="3" connection="connectionsnap_centerend"/>
+      <offset>
+        <position x="-0.0001745" z="4722.176"/>
+      </offset>
+    </entry>
+    <entry index="5" macro="landmarks_tel_tradestation_01_radar_01_macro" connection="connectionsnap_center01">
+      <predecessor index="1" connection="connectionsnap_radar01"/>
+      <offset>
+        <position z="-0.0001221"/>
+      </offset>
+    </entry>
+    <entry index="6" macro="landmarks_tel_tradestation_01_ring_01_macro" connection="connectionsnap_center_ring1">
+      <predecessor index="2" connection="connectionsnap_outer_ring"/>
+      <offset>
+        <position x="-0.0002312" z="-4944.662"/>
+      </offset>
+    </entry>
+    <entry index="7" macro="landmarks_tel_tradestation_01_ring_inside_ut02_macro" connection="connectionsnap_ring1">
+      <predecessor index="6" connection="connectionsnap_city9"/>
+      <offset>
+        <position x="0.001722" y="-0.0009766" z="-4944.662"/>
+        <rotation roll="120"/>
+      </offset>
+    </entry>
+    <entry index="8" macro="landmarks_tel_tradestation_01_ring_inside_ut02_macro" connection="connectionsnap_ring1">
+      <predecessor index="6" connection="connectionsnap_city5"/>
+      <offset>
+        <position x="-0.002184" y="0.0004883" z="-4944.661"/>
+        <rotation roll="-120"/>
+      </offset>
+    </entry>
+    <entry index="9" macro="landmarks_tel_tradestation_01_ring_inside_ut01_macro" connection="connectionsnap_ring1">
+      <predecessor index="6" connection="connectionsnap_city8"/>
+      <offset>
+        <position y="-0.002441" z="-4944.662"/>
+        <rotation roll="149.99998"/>
+      </offset>
+    </entry>
+    <entry index="10" macro="landmarks_tel_tradestation_01_ring_inside_ut01_macro" connection="connectionsnap_ring1">
+      <predecessor index="6" connection="connectionsnap_city4"/>
+      <offset>
+        <position x="0.0002571" y="0.0005245" z="-4944.661"/>
+        <rotation roll="-89.99999"/>
+      </offset>
+    </entry>
+    <entry index="11" macro="landmarks_tel_tradestation_01_ring_inside_ut01_macro" connection="connectionsnap_ring1">
+      <predecessor index="6" connection="connectionsnap_city12"/>
+      <offset>
+        <position x="-0.001208" y="0.001953" z="-4944.662"/>
+        <rotation roll="29.99999"/>
+      </offset>
+    </entry>
+    <entry index="12" macro="landmarks_tel_tradestation_01_ring_inside_ut02_macro" connection="connectionsnap_ring1">
+      <predecessor index="6" connection="connectionsnap_city1"/>
+      <offset>
+        <position x="0.0002933" y="-0.0004883" z="-4944.662"/>
+      </offset>
+    </entry>
+    <entry index="13" macro="landmarks_tel_tradestation_01_ringclamp_01_macro" connection="connectionsnap_ring">
+      <predecessor index="6" connection="connectionsnap_clamp5"/>
+      <offset>
+        <position x="8211.846" y="-400" z="-4230.873"/>
+        <rotation roll="-180"/>
+      </offset>
+    </entry>
+    <entry index="14" macro="landmarks_tel_tradestation_01_bridge_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="13" connection="connectionsnap_bridge"/>
+      <offset>
+        <position x="7272.6" y="-320" z="-3050.732"/>
+        <rotation yaw="27.50002" roll="-180"/>
+      </offset>
+    </entry>
+    <entry index="15" macro="landmarks_tel_tradestation_01_ringclamp_02_macro" connection="connectionsnap_ring">
+      <predecessor index="6" connection="connectionsnap_clamp4"/>
+      <offset>
+        <position x="8359.902" y="400" z="-4230.872"/>
+      </offset>
+    </entry>
+    <entry index="16" macro="landmarks_tel_tradestation_01_bridge_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="15" connection="connectionsnap_bridge"/>
+      <offset>
+        <position x="7272.598" y="320" z="-3050.731"/>
+        <rotation yaw="-152.49998"/>
+      </offset>
+    </entry>
+    <entry index="17" macro="landmarks_tel_tradestation_01_ringclamp_01_macro" connection="connectionsnap_ring">
+      <predecessor index="6" connection="connectionsnap_clamp1"/>
+      <offset>
+        <position x="-8211.845" y="400" z="-4230.869"/>
+      </offset>
+    </entry>
+    <entry index="18" macro="landmarks_tel_tradestation_01_bridge_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="17" connection="connectionsnap_bridge"/>
+      <offset>
+        <position x="-7272.598" y="320" z="-3050.729"/>
+        <rotation yaw="-27.49998"/>
+      </offset>
+    </entry>
+    <entry index="19" macro="landmarks_tel_tradestation_01_ringclamp_02_macro" connection="connectionsnap_ring">
+      <predecessor index="6" connection="connectionsnap_clamp2"/>
+      <offset>
+        <position x="-8359.902" y="-400" z="-4230.869"/>
+        <rotation roll="-180"/>
+      </offset>
+    </entry>
+    <entry index="20" macro="landmarks_tel_tradestation_01_bridge_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="19" connection="connectionsnap_bridge"/>
+      <offset>
+        <position x="-7271.392" y="-479.958" z="-3053.045"/>
+        <rotation yaw="-27.5" pitch="-1.87029"/>
+      </offset>
+    </entry>
+    <entry index="21" macro="landmarks_tel_tradestation_01_column_01_macro" connection="connectionsnap_column">
+      <predecessor index="2" connection="connectionsnap_column_down_left"/>
+      <offset>
+        <position x="0.03023" z="-4944.662"/>
+        <rotation roll="-120"/>
+      </offset>
+    </entry>
+    <entry index="22" macro="landmarks_tel_tradestation_01_column_01_macro" connection="connectionsnap_column">
+      <predecessor index="2" connection="connectionsnap_column_down_right"/>
+      <offset>
+        <position x="-0.03069" z="-4944.662"/>
+        <rotation roll="120"/>
+      </offset>
+    </entry>
+    <entry index="23" macro="landmarks_tel_tradestation_01_column_01_macro" connection="connectionsnap_column">
+      <predecessor index="2" connection="connectionsnap_column_top"/>
+      <offset>
+        <position y="0.0001221" z="-4944.662"/>
+      </offset>
+    </entry>
+    <entry index="24" macro="landmarks_tel_tradestation_01_centerfill_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="1" connection="connectionsnap_fill01"/>
+      <offset>
+        <position y="700" z="-300"/>
+      </offset>
+    </entry>
+    <entry index="25" macro="landmarks_tel_tradestation_01_centerfill_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="1" connection="connectionsnap_fill02"/>
+      <offset>
+        <position y="-700" z="-300"/>
+        <rotation roll="-180"/>
+      </offset>
+    </entry>
+    <entry index="26" macro="landmarks_tel_tradestation_01_centercylinder_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="1" connection="connectionsnap_cylinder04"/>
+      <offset>
+        <position x="0.7633" y="-644.626" z="1902.892"/>
+        <rotation yaw="-179.99998" roll="-180"/>
+      </offset>
+    </entry>
+    <entry index="27" macro="landmarks_tel_tradestation_01_centercylinder_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="1" connection="connectionsnap_cylinder06"/>
+      <offset>
+        <position x="-169" y="-644.626" z="1463.742"/>
+        <rotation yaw="89.99998" roll="-180"/>
+      </offset>
+    </entry>
+    <entry index="28" macro="landmarks_tel_tradestation_01_centercylinder_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="1" connection="connectionsnap_cylinder05"/>
+      <offset>
+        <position x="169" y="-644.626" z="1463.742"/>
+        <rotation yaw="-89.99998" roll="-180"/>
+      </offset>
+    </entry>
+    <entry index="29" macro="landmarks_tel_tradestation_01_centercylinder_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="1" connection="connectionsnap_cylinder01"/>
+      <offset>
+        <position y="615.343" z="1902.892"/>
+      </offset>
+    </entry>
+    <entry index="30" macro="landmarks_tel_tradestation_01_centercylinder_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="1" connection="connectionsnap_cylinder02"/>
+      <offset>
+        <position x="169" y="615.343" z="1463.742"/>
+        <rotation yaw="89.99998"/>
+      </offset>
+    </entry>
+    <entry index="31" macro="landmarks_tel_tradestation_01_centercylinder_01_macro" connection="connectionsnap_clamp">
+      <predecessor index="1" connection="connectionsnap_cylinder03"/>
+      <offset>
+        <position x="-169" y="615.343" z="1463.742"/>
+        <rotation yaw="-89.99997"/>
+      </offset>
+    </entry>
+    <entry index="32" macro="landmarks_tel_tradestation_01_ring_storage_01_macro" connection="connectionsnap_ring">
+      <predecessor index="6" connection="connectionsnap_storage3"/>
+      <offset>
+        <position x="-0.003649" y="0.0004883" z="-4944.662"/>
+        <rotation roll="-120"/>
+      </offset>
+    </entry>
+    <entry index="33" macro="landmarks_tel_tradestation_01_ring_storage_01_macro" connection="connectionsnap_ring">
+      <predecessor index="6" connection="connectionsnap_storage2"/>
+      <offset>
+        <position x="0.00221" z="-4944.661"/>
+        <rotation roll="120"/>
+      </offset>
+    </entry>
+    <entry index="34" macro="landmarks_tel_tradestation_01_ring_storage_01_macro" connection="connectionsnap_ring">
+      <predecessor index="6" connection="connectionsnap_storage1"/>
+      <offset>
+        <position x="0.0003808" y="0.0004883" z="-4944.662"/>
+      </offset>
+    </entry>
+    <entry index="35" macro="landmarks_tel_tradestation_01_storage_01_macro" connection="connectionsnap_centerend">
+      <predecessor index="4" connection="connectionsnap_column_top"/>
+      <offset>
+        <position x="-0.0001133" z="4722.176"/>
+      </offset>
+    </entry>
+    <entry index="36" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="35" connection="connectionsnap_interstorage"/>
+      <offset>
+        <position x="-0.0005" y="3377.029" z="4722.176"/>
+      </offset>
+    </entry>
+    <entry index="37" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="36" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-0.0007067" y="4519.128" z="4722.176"/>
+      </offset>
+    </entry>
+    <entry index="38" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="37" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-0.001094" y="5646.157" z="4722.176"/>
+      </offset>
+    </entry>
+    <entry index="39" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="38" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-0.0015" y="6788.257" z="4722.176"/>
+      </offset>
+    </entry>
+    <entry index="40" macro="landmarks_tel_tradestation_01_storage_01_macro" connection="connectionsnap_centerend">
+      <predecessor index="4" connection="connectionsnap_column_up_left"/>
+      <offset>
+        <position x="-0.002372" z="4722.176"/>
+        <rotation roll="-60"/>
+      </offset>
+    </entry>
+    <entry index="41" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="40" connection="connectionsnap_interstorage"/>
+      <offset>
+        <position x="-2924.595" y="1688.515" z="4722.175"/>
+        <rotation roll="-60"/>
+      </offset>
+    </entry>
+    <entry index="42" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="41" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-3913.682" y="2259.564" z="4722.175"/>
+        <rotation roll="-60"/>
+      </offset>
+    </entry>
+    <entry index="43" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="42" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-4889.718" y="2823.078" z="4722.175"/>
+        <rotation roll="-60.00001"/>
+      </offset>
+    </entry>
+    <entry index="44" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="43" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-5878.806" y="3394.128" z="4722.175"/>
+        <rotation roll="-60.00002"/>
+      </offset>
+    </entry>
+    <entry index="45" macro="landmarks_tel_tradestation_01_storage_01_macro" connection="connectionsnap_centerend">
+      <predecessor index="4" connection="connectionsnap_column_down_left"/>
+      <offset>
+        <position x="-0.002433" z="4722.176"/>
+        <rotation roll="-120"/>
+      </offset>
+    </entry>
+    <entry index="46" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="45" connection="connectionsnap_interstorage"/>
+      <offset>
+        <position x="-2924.595" y="-1688.514" z="4722.175"/>
+        <rotation roll="-120"/>
+      </offset>
+    </entry>
+    <entry index="47" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="46" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-3913.681" y="-2259.564" z="4722.175"/>
+        <rotation roll="-120.00001"/>
+      </offset>
+    </entry>
+    <entry index="48" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="47" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-4889.717" y="-2823.079" z="4722.175"/>
+        <rotation roll="-120.00001"/>
+      </offset>
+    </entry>
+    <entry index="49" macro="landmarks_tel_tradestation_01_storage_01_macro" connection="connectionsnap_centerend">
+      <predecessor index="4" connection="connectionsnap_column_down"/>
+      <offset>
+        <position x="-0.0001745" z="4722.176"/>
+        <rotation roll="-180"/>
+      </offset>
+    </entry>
+    <entry index="50" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="49" connection="connectionsnap_interstorage"/>
+      <offset>
+        <position y="-3377.028" z="4722.176"/>
+        <rotation roll="179.99998"/>
+      </offset>
+    </entry>
+    <entry index="51" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="50" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position y="-4519.127" z="4722.176"/>
+        <rotation roll="179.99998"/>
+      </offset>
+    </entry>
+    <entry index="52" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="51" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position y="-5646.156" z="4722.176"/>
+        <rotation roll="179.99998"/>
+      </offset>
+    </entry>
+    <entry index="53" macro="landmarks_tel_tradestation_01_storage_01_macro" connection="connectionsnap_centerend">
+      <predecessor index="4" connection="connectionsnap_column_up_right"/>
+      <offset>
+        <position x="0.002084" z="4722.176"/>
+        <rotation roll="60"/>
+      </offset>
+    </entry>
+    <entry index="54" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="53" connection="connectionsnap_interstorage"/>
+      <offset>
+        <position x="2924.594" y="1688.514" z="4722.176"/>
+        <rotation roll="59.99999"/>
+      </offset>
+    </entry>
+    <entry index="55" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="54" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="3913.68" y="2259.564" z="4722.176"/>
+        <rotation roll="59.99998"/>
+      </offset>
+    </entry>
+    <entry index="56" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="55" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="4889.715" y="2823.078" z="4722.176"/>
+        <rotation roll="59.99998"/>
+      </offset>
+    </entry>
+    <entry index="57" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="56" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="5878.803" y="3394.129" z="4722.176"/>
+        <rotation roll="59.99998"/>
+      </offset>
+    </entry>
+    <entry index="58" macro="landmarks_tel_tradestation_01_storage_01_macro" connection="connectionsnap_centerend">
+      <predecessor index="4" connection="connectionsnap_column_down_right"/>
+      <offset>
+        <position x="0.002023" z="4722.176"/>
+        <rotation roll="120"/>
+      </offset>
+    </entry>
+    <entry index="59" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="58" connection="connectionsnap_interstorage"/>
+      <offset>
+        <position x="2924.594" y="-1688.514" z="4722.176"/>
+        <rotation roll="119.99998"/>
+      </offset>
+    </entry>
+    <entry index="60" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="59" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="3913.681" y="-2259.563" z="4722.176"/>
+        <rotation roll="119.99998"/>
+      </offset>
+    </entry>
+    <entry index="61" macro="landmarks_tel_tradestation_01_column_02_macro" connection="connectionsnap_interstorage01">
+      <predecessor index="60" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="4889.716" y="-2823.077" z="4722.176"/>
+        <rotation roll="119.99998"/>
+      </offset>
+    </entry>
+    <entry index="62" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage02">
+      <predecessor index="61" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="5878.804" y="-3394.127" z="4722.176"/>
+        <rotation roll="-60.00001"/>
+      </offset>
+    </entry>
+    <entry index="63" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage02">
+      <predecessor index="48" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="-5878.805" y="-3394.129" z="4722.175"/>
+        <rotation roll="59.99998"/>
+      </offset>
+    </entry>
+    <entry index="64" macro="landmarks_tel_tradestation_01_tradelocation_ut01_macro" connection="connectionsnap_interstorage02">
+      <predecessor index="52" connection="connectionsnap_interstorage02"/>
+      <offset>
+        <position x="0.0003149" y="-6788.256" z="4722.176"/>
+      </offset>
+    </entry>
+  </plan>
+</plans>

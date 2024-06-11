@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring" tags="snap outerring_storage">
+      <offset>
+        <position x="0" y="7000" z="0"/>
+        <rotation yaw="90" pitch="-90" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+</diff>

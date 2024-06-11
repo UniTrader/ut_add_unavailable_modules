@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_centerring" tags="snap center_centerring">
+      <offset>
+        <position x="0" y="0" z="-3000"/>
+        <rotation yaw="180" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_centereext" tags="snap center_centerext">
+      <offset>
+        <position x="0" y="0" z="2724.363"/>
+        <rotation yaw="0" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_radar01" tags="snap center_radar">
+      <offset>
+        <position x="1000" y="0" z="-300"/>
+        <rotation yaw="90" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_radar02" tags="snap center_radar">
+      <offset>
+        <position x="-1000" y="0" z="-300"/>
+        <rotation yaw="270" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_fill01" tags="snap center_fill">
+      <offset>
+        <position x="0" y="700" z="-300"/>
+        <rotation yaw="0" pitch="90" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_fill02" tags="snap center_fill">
+      <offset>
+        <position x="0" y="-700" z="-300"/>
+        <rotation yaw="0" pitch="-90" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_cylinder01" tags="snap center_cylinder">
+      <offset>
+					<position x="0" y="615.3431" z="1902.892"/>
+        <rotation yaw="0" pitch="90" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_cylinder02" tags="snap center_cylinder">
+      <offset>
+					<position x="169" y="615.3431" z="1463.742"/>
+        <rotation yaw="90" pitch="90" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_cylinder03" tags="snap center_cylinder">
+      <offset>
+					<position x="-169" y="615.3431" z="1463.742"/>
+        <rotation yaw="270" pitch="90" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_cylinder04" tags="snap center_cylinder">
+      <offset>
+					<position x="0.7632524" y="-644.6263" z="1902.892"/>
+        <rotation yaw="0" pitch="-90" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_cylinder05" tags="snap center_cylinder">
+      <offset>
+					<position x="169" y="-644.6263" z="1463.742"/>
+        <rotation yaw="270" pitch="-90" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_cylinder06" tags="snap center_cylinder">
+      <offset>
+					<position x="-169" y="-644.6263" z="1463.742"/>
+        <rotation yaw="90" pitch="-90" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+</diff>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_centerend" tags="snap centerext_centerend">
+      <offset>
+        <position x="0" y="0" z="2.187"/>
+        <rotation yaw="180" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_column_top" tags="snap centerend_storage">
+      <offset>
+        <position x="0" y="700" z="0"/>
+        <rotation yaw="90" pitch="90" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_column_down" tags="snap centerend_storage">
+      <offset>
+        <position x="0" y="-700" z="0"/>
+        <rotation yaw="90" pitch="-90" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_column_up_right" tags="snap centerend_storage">
+      <offset>
+        <position x="606.22" y="350" z="0"/>
+        <rotation yaw="90" pitch="30" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_column_down_right" tags="snap centerend_storage">
+      <offset>
+        <position x="606.22" y="-350" z="0"/>
+        <rotation yaw="90" pitch="-30" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_column_down_left" tags="snap centerend_storage">
+      <offset>
+        <position x="-606.22" y="-350" z="0"/>
+        <rotation yaw="90" pitch="-150" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_column_up_left" tags="snap centerend_storage">
+      <offset>
+        <position x="-606.22" y="350" z="0"/>
+        <rotation yaw="90" pitch="150" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ut_01" tags="snap ">
+      <offset>
+        <position x="0" y="0" z="-400"/>
+        <rotation yaw="180" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ut_02" tags="snap ">
+      <offset>
+        <position x="0" y="0" z="400"/>
+        <rotation yaw="0" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+</diff>

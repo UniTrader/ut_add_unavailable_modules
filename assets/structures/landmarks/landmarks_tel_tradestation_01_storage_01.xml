@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_centerend" tags="snap centerend_storage">
+      <offset>
+        <position x="0" y="700" z="0"/>
+        <rotation yaw="90" pitch="-90" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_interstorage" tags="snap centerend_storage">
+      <offset>
+        <position x="0" y="2330" z="0"/>
+        <rotation yaw="90" pitch="90" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+</diff>

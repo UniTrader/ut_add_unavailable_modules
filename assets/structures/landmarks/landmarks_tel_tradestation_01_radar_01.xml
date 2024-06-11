@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_center01" tags="snap center_radar">
+      <offset>
+        <position x="1000" y="0" z="-300"/>
+        <rotation yaw="270" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_center02" tags="snap center_radar">
+      <offset>
+        <position x="-1000" y="0" z="-300"/>
+        <rotation yaw="0" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_bridge_1" tags="snap radar_bridge">
+      <offset>
+        <position x="2280" y="400" z="-460"/>
+        <rotation yaw="117.5" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_bridge_2" tags="snap radar_bridge">
+      <offset>
+        <position x="2280" y="-400" z="-460"/>
+        <rotation yaw="117.5" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_bridge_3" tags="snap radar_bridge">
+      <offset>
+        <position x="-2280" y="400" z="-460"/>
+        <rotation yaw="242.5" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_bridge_4" tags="snap radar_bridge">
+      <offset>
+        <position x="-2280" y="-400" z="-460"/>
+        <rotation yaw="242.5" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+</diff>

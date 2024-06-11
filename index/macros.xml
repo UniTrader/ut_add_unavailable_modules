@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ?xml-stylesheet href="index.xsl" type="text\xsl" ? -->
+<index>
+	<entry name="landmarks_tel_tradestation_01_tradelocation_ut01_macro" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\macros\landmarks_tel_tradestation_01_tradelocation_ut01_macro"/>
+	<entry name="landmarks_tel_tradestation_01_center_ut01_macro" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\macros\landmarks_tel_tradestation_01_center_ut01_macro"/>
+	<entry name="landmarks_tel_tradestation_01_ring_inside_ut01_macro" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\macros\landmarks_tel_tradestation_01_ring_inside_ut01_macro"/>
+	<entry name="landmarks_tel_tradestation_01_ring_inside_ut02_macro" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\macros\landmarks_tel_tradestation_01_ring_inside_ut02_macro"/>
+	<entry name="landmarks_tel_tradestation_01_ring_inside_ut03_macro" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\macros\landmarks_tel_tradestation_01_ring_inside_ut03_macro"/>
+</index>

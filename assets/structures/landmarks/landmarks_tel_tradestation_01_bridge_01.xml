@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_clamp" tags="snap clamp_bridge">
+      <offset>
+        <position x="-200" y="80" z="0"/>
+        <rotation yaw="270" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_radar" tags="snap radar_bridge">
+      <offset>
+        <position x="5640" y="80" z="0"/>
+        <rotation yaw="90" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+</diff>

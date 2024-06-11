@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="../../content.xsl"?>
+<content id="ut_unavailable_modules" name="UTs Module Adder" description="Adds Modules to HQ that are not available otherwise." author="UniTrader" date="2024-06-06" version="001" save="false" uninstaller="false" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://utnas/~unitrader/XRebirthxsds/content.xsd">
+</content>

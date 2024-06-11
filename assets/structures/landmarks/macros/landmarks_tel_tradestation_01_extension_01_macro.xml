@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/macros/macro/properties">
+    <build>
+      <sets>
+        <set ref="factory"/>
+        <set ref="headquarters_player"/>
+      </sets>
+    </build>
+  </add>
+  <add sel="/macros/macro/properties/identification" type="@makerrace">teladi</add>
+</diff>

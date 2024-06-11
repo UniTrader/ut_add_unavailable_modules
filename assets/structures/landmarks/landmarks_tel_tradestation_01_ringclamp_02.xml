@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring" tags="snap outerring_clamp">
+      <offset>
+        <position x="-859.9025" y="0" z="-713.791"/>
+        <rotation yaw="270" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+    <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_bridge" tags="snap clamp_bridge">
+      <offset>
+        <position x="-909.9025" y="0" z="1087.791"/>
+        <rotation yaw="297.5" pitch="0" roll="0"/>
+      </offset>
+    </connection>
+  </add>
+					<!--
+          <position x="8434.128" y="396.8115" z="-4230.871"/>
+					<position x="7266.935" y="307.0206" z="-3070.005"/>
+          -->
+  <!--
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_interstorage" tags="snap centerend_storage">
+      <offset>
+        <position x="0" y="2330" z="0"/>
+        <rotation yaw="90" pitch="90" roll="90"/>
+      </offset>
+    </connection>
+  </add>-->
+</diff>

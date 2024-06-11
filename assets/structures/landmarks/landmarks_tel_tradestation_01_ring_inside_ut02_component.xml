@@ -1,0 +1,178 @@
+<?xml version="1.0"?>
+<components>
+  <component name="landmarks_tel_tradestation_01_ring_inside_ut02_component" class="habitation">
+    <source geometry="extensions\ut_add_unavailable_modules\assets\structures\landmarks\landmarks_tel_tradestation_01_ring_rotation_data"/>
+    <layers>
+      <layer>
+        <waypoints/>
+        <lights>
+          <omni name="XU Omni01" shadow="0" r="255" g="255" b="255" range="350" shadowrange="350" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="-33.22365" y="-6938.868" z="42.70876"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni002" shadow="0" r="255" g="255" b="255" range="100" shadowrange="100" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="1073.486" y="-6930.022" z="461.3997"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni003" shadow="0" r="255" g="255" b="255" range="100" shadowrange="100" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="981.9008" y="-6930.022" z="449.1962"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni004" shadow="0" r="255" g="255" b="255" range="100" shadowrange="100" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="902.7776" y="-6942.99" z="489.1405"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni005" shadow="0" r="255" g="255" b="255" range="100" shadowrange="100" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="685.0759" y="-6976.678" z="-439.9192"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni006" shadow="0" r="255" g="255" b="255" range="100" shadowrange="100" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="522.8925" y="-6986.195" z="-402.0131"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni007" shadow="0" r="255" g="255" b="255" range="100" shadowrange="100" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="421.7426" y="-6992.448" z="-486.7982"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni008" shadow="0" r="255" g="255" b="255" range="100" shadowrange="100" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="424.0342" y="-6999.9" z="-132.1064"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni009" shadow="0" r="255" g="151" b="49" range="150" shadowrange="150" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="270.5273" y="-6999.9" z="161.7104"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+          <omni name="XU Omni010" shadow="0" r="255" g="151" b="49" range="150" shadowrange="150" lighteffect="1" trigger="1" intensity="0.5" specularintensity="1">
+            <lightanimations/>
+            <offset>
+              <position x="-503.6777" y="-7012.181" z="13.02147"/>
+              <quaternion qx="1.026043E-02" qy="0.6962261" qz="9.953707E-03" qw="-0.7176802"/>
+            </offset>
+          </omni>
+        </lights>
+        <sounds>
+          <sound name="XU SoundEmitter Plants 07" ref="anim_tradestation_plants">
+            <offset>
+              <position x="517.533" y="-6968.83" z="477.9539"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Plants 06" ref="anim_tradestation_plants">
+            <offset>
+              <position x="1519.463" y="-6778.768" z="481.2279"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Plants 05" ref="anim_tradestation_plants">
+            <offset>
+              <position x="1604.59" y="-6778.768" z="-401.7681"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Plants 04" ref="anim_tradestation_plants">
+            <offset>
+              <position x="-1556.791" y="-6778.768" z="-324.416"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Plants 03" ref="anim_tradestation_plants">
+            <offset>
+              <position x="-1251.588" y="-6778.768" z="470.9121"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Water 03" ref="anim_tradestation_water">
+            <offset>
+              <position x="-1025.926" y="-6978.256" z="21.57173"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Water 02" ref="anim_tradestation_water">
+            <offset>
+              <position x="-31.84119" y="-6999.844" z="21.57173"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Plants 02" ref="anim_tradestation_plants">
+            <offset>
+              <position x="-408.7986" y="-6994.979" z="18.03639"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Plants 01" ref="anim_tradestation_plants">
+            <offset>
+              <position x="358.1859" y="-6994.979" z="18.03639"/>
+            </offset>
+          </sound>
+          <sound name="XU SoundEmitter Water 01" ref="anim_tradestation_water">
+            <offset>
+              <position x="1091.214" y="-6999.844" z="21.57173"/>
+            </offset>
+          </sound>
+        </sounds>
+      </layer>
+    </layers>
+    <connections>
+      <connection name="container" tags="contents" value="0"/>
+      <connection name="position" tags="position" value="1"/>
+      <connection name="space" tags="habitation">
+        <offset/>
+      </connection>
+      <connection name="Connection_rotate" hidden="true" tags="part animation nocollision detail_xs ">
+        <offset/>
+        <animations>
+          <animation name="loop" start="1" end="20000"/>
+        </animations>
+        <parts>
+          <part name="anim_innerarea" wreck="anim_innerarea">
+            <lods>
+              <lod index="0">
+                <materials>
+                  <material id="1" ref="generic.generic_p1_alphatexture"/>
+                  <material id="2" ref="generic.generic_p1_hulltexture"/>
+                </materials>
+              </lod>
+            </lods>
+            <size>
+              <max x="30.92752" y="30.92752" z="30"/>
+              <center x="0" y="0" z="0"/>
+            </size>
+            <size_raw>
+              <max x="30" y="30" z="30"/>
+              <center x="0" y="0" z="0"/>
+            </size_raw>
+          </part>
+        </parts>
+        <waypoints/>
+      </connection>
+      <connection name="ConnectionOriginal" tags="habitation iklink" group="stationGroup" parent="anim_innerarea">
+        <offset/>
+      </connection>
+      <connection name="ConnectionSnap_ring1" tags="snap outerring_city">
+        <offset>
+          <position x="0" y="-6000" z="0"/>
+          <rotation yaw="90" pitch="90" roll="90"/>
+        </offset>
+      </connection>
+    </connections>
+  </component>
+</components>
