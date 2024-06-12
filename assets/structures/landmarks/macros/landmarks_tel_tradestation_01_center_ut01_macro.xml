@@ -13,6 +13,7 @@
       <explosiondamage value="1000" shield="5000"/>
       <storage unit="5"/>
       <hull max="2000000"/>
+      <ownership claim="1" />
     </properties>
     <!-- copied over from the Station macro -->
     <connections>
