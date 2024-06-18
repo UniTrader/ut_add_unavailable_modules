@@ -137,7 +137,7 @@
       <connection name="space" tags="habitation">
         <offset/>
       </connection>
-      <connection name="Connection_rotate" hidden="true" tags="part animation nocollision detail_xs ">
+      <connection name="Connection_rotate" tags="part animation nocollision detail_xs ">
         <offset/>
         <animations>
           <animation name="loop" start="1" end="20000"/>
