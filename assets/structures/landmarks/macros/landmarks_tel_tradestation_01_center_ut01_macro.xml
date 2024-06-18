@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <macros>
-  <macro name="landmarks_tel_tradestation_01_center_ut01_macro" class="dockarea">
+  <macro name="landmarks_tel_tradestation_01_center_ut01_macro" class="dockarea" alias="landmarks_tel_tradestation_01_center_01_macro">
     <component ref="landmarks_tel_tradestation_01_center_ut01_component"/>
     <properties>
       <build>
