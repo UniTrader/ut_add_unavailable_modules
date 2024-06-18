@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <components>
-  <component name="landmarks_tel_tradestation_01_ring_inside_ut03_component" class="welfaremodule">
+  <component name="landmarks_tel_tradestation_01_ring_inside_ut03_component" class="connectionmodule">
     <source geometry="extensions\ut_add_unavailable_modules\assets\structures\landmarks\landmarks_tel_tradestation_01_ring_rotation_data"/>
     <layers>
       <layer>
