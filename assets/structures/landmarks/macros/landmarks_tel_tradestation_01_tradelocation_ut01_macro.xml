@@ -15,5 +15,13 @@
       <storage unit="5"/>
       <hull max="200000"/>
     </properties>
+    <connections>
+      <connection ref="Parkingpos_1">
+        <macro ref="dockingbay_gen_xl_pier_01_macro" connection="position" />
+      </connection>
+      <connection ref="Parkingpos_2">
+        <macro ref="dockingbay_gen_xl_pier_01_macro" connection="position" />
+      </connection>
+    </connections>
   </macro>
 </macros>
