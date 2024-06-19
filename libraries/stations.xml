@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <replace sel="/*/station[@id='tradestation_tel_ring']">
+  <station id="tradestation_tel_ring" group="tradestation_tel_ring">
+    <category tags="tradestation" faction="[teladi, ministry, scaleplate]" />
+  </station>
+  
+  </replace>
+</diff>

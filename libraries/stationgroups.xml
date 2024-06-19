@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<diff>
+  <add sel="/*">
+  <group name="tradestation_tel_ring">
+    <select constructionplan="tel_tradestation_ring" />
+  </group>
+  </add>
+  <add sel="/*/group[@name='tradestation_tel']/select[@constructionplan='tel_tradestation']" type="@weight">9</add>
+  <add sel="/*/group[@name='tradestation_tel']">
+    <select constructionplan="tel_tradestation_ring" weight="1"/>
+  </add>
+</diff>
