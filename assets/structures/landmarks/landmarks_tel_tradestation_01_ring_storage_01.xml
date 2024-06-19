@@ -8,4 +8,180 @@
       </offset>
     </connection>
   </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_1" tags="snap ">
+      <offset>
+<position x="6430.57" y="3710.00" z="0"/>        <rotation yaw="90" pitch="30" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_2" tags="snap ">
+      <offset>
+<position x="6079.89" y="4255.36" z="0"/>        <rotation yaw="90" pitch="35" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_3" tags="snap ">
+      <offset>
+<position x="5683.64" y="4773.02" z="0"/>        <rotation yaw="90" pitch="40" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_4" tags="snap ">
+      <offset>
+<position x="5233.28" y="5248.28" z="0"/>        <rotation yaw="90" pitch="45" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_5" tags="snap ">
+      <offset>
+<position x="4740.19" y="5683.64" z="0"/>        <rotation yaw="90" pitch="50" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_6" tags="snap ">
+      <offset>
+<position x="4195.74" y="6079.89" z="0"/>        <rotation yaw="90" pitch="55" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_7" tags="snap ">
+      <offset>
+<position x="3710.00" y="6430.57" z="0"/>        <rotation yaw="90" pitch="60" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_8" tags="snap ">
+      <offset>
+<position x="3164.42" y="6733.67" z="0"/>        <rotation yaw="90" pitch="65" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_9" tags="snap ">
+      <offset>
+<position x="2556.26" y="6983.85" z="0"/>        <rotation yaw="90" pitch="70" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_10" tags="snap ">
+      <offset>
+<position x="1915.18" y="7181.10" z="0"/>        <rotation yaw="90" pitch="75" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_11" tags="snap ">
+      <offset>
+<position x="1225.64" y="7323.25" z="0"/>        <rotation yaw="90" pitch="80" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_12" tags="snap ">
+      <offset>
+<position x="503.36" y="7409.66" z="0"/>        <rotation yaw="90" pitch="85" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_13" tags="snap ">
+      <offset>
+<position x="0" y="7420" z="0"/>        <rotation yaw="90" pitch="90" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_14" tags="snap ">
+      <offset>
+<position x="-503.36" y="7409.66" z="0"/>        <rotation yaw="90" pitch="95" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_15" tags="snap ">
+      <offset>
+<position x="-1225.64" y="7323.25" z="0"/>        <rotation yaw="90" pitch="100" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_16" tags="snap ">
+      <offset>
+<position x="-1915.18" y="7181.10" z="0"/>        <rotation yaw="90" pitch="105" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_17" tags="snap ">
+      <offset>
+<position x="-2556.26" y="6983.85" z="0"/>        <rotation yaw="90" pitch="110" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_18" tags="snap ">
+      <offset>
+<position x="-3164.42" y="6733.67" z="0"/>        <rotation yaw="90" pitch="115" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_19" tags="snap ">
+      <offset>
+<position x="-3710.00" y="6430.57" z="0"/>        <rotation yaw="90" pitch="120" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_20" tags="snap ">
+      <offset>
+<position x="-4195.74" y="6079.89" z="0"/>        <rotation yaw="90" pitch="125" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_21" tags="snap ">
+      <offset>
+<position x="-4740.19" y="5683.64" z="0"/>        <rotation yaw="90" pitch="130" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_22" tags="snap ">
+      <offset>
+<position x="-5233.28" y="5248.28" z="0"/>        <rotation yaw="90" pitch="135" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_23" tags="snap ">
+      <offset>
+<position x="-5683.64" y="4773.02" z="0"/>        <rotation yaw="90" pitch="140" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_24" tags="snap ">
+      <offset>
+<position x="-6079.89" y="4255.36" z="0"/>        <rotation yaw="90" pitch="145" roll="90"/>
+      </offset>
+    </connection>
+  </add>
+  <!--add sel="/components/component/connections">
+    <connection name="ConnectionSnap_ring_outside_25" tags="snap ">
+      <offset>
+        <position x="-6430.57" y="3710.00" z="0"/>
+        <rotation yaw="90" pitch="150" roll="90"/>
+      </offset>
+    </connection>
+  </add-->
 </diff>
