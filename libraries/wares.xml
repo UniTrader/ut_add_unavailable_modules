@@ -68,8 +68,8 @@
     <restriction licence="station_gen_advanced"/>
     <owner faction="teladi"/>
   </add>
-  <replace sel="/*/ware[@id='module_tel_tradestation_hab_inside_ring_01']/@tags">module</replace>
 <!-- Added as new Module
+  <replace sel="/*/ware[@id='module_tel_tradestation_hab_inside_ring_01']/@tags">module</replace>
   <add sel="/*/ware[@id='module_tel_tradestation_hab_inside_ring_01']">
     <restriction licence="station_gen_advanced"/>
     <owner faction="teladi"/>
@@ -147,7 +147,7 @@
           <ware ware="claytronics" amount="594"/>
           <ware ware="energycells" amount="541"/>
           <ware ware="hullparts" amount="1627"/>
-          <ware ware="water" amount="200"/>
+          <ware ware="water" amount="50"/>
         </primary>
       </production>
       <research time="10">
