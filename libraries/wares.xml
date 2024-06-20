@@ -1,389 +1,195 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<wares>
+<diff>
   <!-- just enabling modules -->
-  <ware id="module_landmarks_tel_tradestation_01_bridge_01_macro" name="{20104,100701}" description="{20104,100702}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_bridge_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <!--ware id="module_landmarks_tel_tradestation_01_center_01_macro" name="{20104,100301}" description="{20104,100302}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_center_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware-->
-  <ware id="module_landmarks_tel_tradestation_01_centercylinder_01_macro" name="{20104,100801}" description="{20104,100802}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_centercylinder_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_centerend_01_macro" name="{20104,100901}" description="{20104,100902}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_centerend_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_centerfill_01_macro" name="{20104,101001}" description="{20104,101002}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_centerfill_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_column_01_macro" name="{20104,100201}" description="{20104,100202}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_column_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_column_02_macro" name="{20104,101101}" description="{20104,101102}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_column_02_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_extension_01_macro" name="{20104,100101}" description="{20104,100102}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_extension_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_radar_01_macro" name="{20104,101201}" description="{20104,101202}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_radar_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
- <ware id="module_landmarks_tel_tradestation_01_ringcenter_01_macro" name="{20104,100501}" description="{20104,100502}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ringcenter_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_ringclamp_01_macro" name="{20104,102101}" description="{20104,102102}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ringclamp_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_ringclamp_02_macro" name="{20104,102101}" description="{20104,102102}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ringclamp_02_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_ring_01_macro" name="{20104,101401}" description="{20104,101402}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ring_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <!--ware id="module_landmarks_tel_tradestation_01_ring_inside_01_macro" name="{20104,100401}" description="{20104,100402}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ring_inside_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_ring_inside_02_macro" name="{20104,100401}" description="{20104,100402}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ring_inside_02_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_ring_inside_03_macro" name="{20104,102201}" description="{20104,102202}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ring_inside_03_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware-->
-  <ware id="module_landmarks_tel_tradestation_01_ring_storage_01_macro" name="{20104,101305}" description="{20104,101302}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ring_storage_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="module_landmarks_tel_tradestation_01_storage_01_macro" name="{20104,101306}" description="{20104,101302}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_storage_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <!--ware id="landmarks_tel_tradestation_01_tradelocation_01_macro" name="{20104,100601}" description="{20104,100602}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_tradelocation_01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware-->
+  <replace sel="/*/ware[@id='module_tel_tradestation_conn_bridge_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_conn_bridge_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <!-- added new module 
+  <replace sel="/*/ware[@id='module_tel_tradestation_def_center_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_def_center_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+-->
+  <replace sel="/*/ware[@id='module_tel_tradestation_conn_centercylinder_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_conn_centercylinder_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_def_centerend_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_def_centerend_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_conn_centerfill_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_conn_centerfill_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_conn_column_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_conn_column_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_conn_column_02']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_conn_column_02']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_def_extension_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_def_extension_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_conn_radar_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_conn_radar_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_def_ringcenter_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_def_ringcenter_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_def_ringclamp_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_def_ringclamp_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_def_ringclamp_02']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_def_ringclamp_02']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_conn_ring_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_conn_ring_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_hab_inside_ring_01']/@tags">module</replace>
+<!-- Added as new Module
+  <add sel="/*/ware[@id='module_tel_tradestation_hab_inside_ring_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_hab_inside_ring_02']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_hab_inside_ring_02']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_conn_inside_ring_03']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_conn_inside_ring_03']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+-->
+  <replace sel="/*/ware[@id='module_tel_tradestation_stor_storage_ring_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_stor_storage_ring_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <replace sel="/*/ware[@id='module_tel_tradestation_stor_storage_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_stor_storage_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+  <!-- Added as new Module
+  <replace sel="/*/ware[@id='module_tel_tradestation_pier_tradelocation_01']/@tags">module</replace>
+  <add sel="/*/ware[@id='module_tel_tradestation_pier_tradelocation_01']">
+    <restriction licence="station_gen_advanced"/>
+    <owner faction="teladi"/>
+  </add>
+-->
   <!-- adding new module variant since changes would make them incompatible with the original Station -->
-  <ware id="landmarks_tel_tradestation_01_tradelocation_ut01_macro" name="{20104,100601}" description="{20104,100602}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
+  <add sel="/*">
+    <ware id="landmarks_tel_tradestation_01_tradelocation_ut01_macro" name="{20104,100601}" description="{20104,100602}" transport="container" volume="1" tags="module">
+      <price min="2732316" average="3214490" max="3696663"/>
+      <production time="387" amount="1" method="default" name="{20206,101}">
+        <primary>
+          <ware ware="claytronics" amount="614"/>
+          <ware ware="energycells" amount="559"/>
+          <ware ware="hullparts" amount="1681"/>
+        </primary>
+      </production>
+      <research time="10">
+        <research>
+          <ware ware="research_module_dock"/>
+        </research>
       </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_tradelocation_ut01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="landmarks_tel_tradestation_01_center_ut01_macro" name="{20104,100301}" description="{20104,100302}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
+      <component ref="landmarks_tel_tradestation_01_tradelocation_ut01_macro"/>
+      <restriction licence="station_gen_advanced"/>
+      <owner faction="teladi"/>
+    </ware>
+    <ware id="landmarks_tel_tradestation_01_center_ut01_macro" name="{20104,100301}" description="{20104,100302}" transport="container" volume="1" tags="module">
+      <price min="15498837" average="18233929" max="20969021"/>
+      <production time="11732" amount="1" method="default" name="{20206,101}">
+        <primary>
+          <ware ware="claytronics" amount="3483"/>
+          <ware ware="energycells" amount="3178"/>
+          <ware ware="hullparts" amount="9535"/>
+        </primary>
+      </production>
+      <research time="10">
+        <research>
+          <ware ware="research_module_dock"/>
+        </research>
       </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_center_ut01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="landmarks_tel_tradestation_01_ring_inside_ut01_macro" name="{20104,100401}" description="{20104,100402}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
+      <component ref="landmarks_tel_tradestation_01_center_ut01_macro"/>
+      <restriction licence="station_gen_advanced"/>
+      <owner faction="teladi"/>
+    </ware>
+    <ware id="landmarks_tel_tradestation_01_ring_inside_ut01_macro" name="{20104,100401}" description="{20104,100402}" transport="container" volume="1" tags="module">
+      <price min="42305039" average="49770634" max="57236229"/>
+      <production time="1061" amount="1" method="default" name="{20206,101}">
+        <primary>
+          <ware ware="claytronics" amount="594"/>
+          <ware ware="energycells" amount="541"/>
+          <ware ware="hullparts" amount="1627"/>
+          <ware ware="water" amount="200"/>
+        </primary>
+      </production>
+      <research time="10">
+        <research>
+          <ware ware="research_module_habitation"/>
+        </research>
       </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ring_inside_ut01_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="landmarks_tel_tradestation_01_ring_inside_ut02_macro" name="{20104,100401}" description="{20104,100402}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
+      <component ref="landmarks_tel_tradestation_01_ring_inside_ut01_macro"/>
+      <restriction licence="station_gen_advanced"/>
+      <owner faction="teladi"/>
+    </ware>
+    <ware id="landmarks_tel_tradestation_01_ring_inside_ut02_macro" name="{20104,100401}" description="{20104,100402}" transport="container" volume="1" tags="module">
+      <price min="42305039" average="49770634" max="57236229"/>
+      <production time="1061" amount="1" method="default" name="{20206,101}">
+        <primary>
+          <ware ware="claytronics" amount="594"/>
+          <ware ware="energycells" amount="541"/>
+          <ware ware="hullparts" amount="1627"/>
+          <ware ware="water" amount="200"/>
+        </primary>
+      </production>
+      <research time="10">
+        <research>
+          <ware ware="research_module_habitation"/>
+        </research>
       </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ring_inside_ut02_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-  <ware id="landmarks_tel_tradestation_01_ring_inside_ut03_macro" name="{20104,102201}" description="{20104,102202}" transport="container" volume="1" tags="module">
-    <price min="15822621" average="18614848" max="21407075" />
-    <production time="10" amount="1" method="default" name="{20206,101}">
-      <primary>
-        <ware ware="energycells" amount="5" />
-      </primary>
-    </production>
-    <research time="10">
-      <research>
-        <ware ware="research_module_habitation" />
-      </research>
-    </research>
-    <component ref="landmarks_tel_tradestation_01_ring_inside_ut03_macro" />
-    <restriction licence="station_gen_advanced" />
-    <owner faction="teladi" />
-  </ware>
-</wares>
+      <component ref="landmarks_tel_tradestation_01_ring_inside_ut02_macro"/>
+      <restriction licence="station_gen_advanced"/>
+      <owner faction="teladi"/>
+    </ware>
+    <ware id="landmarks_tel_tradestation_01_ring_inside_ut03_macro" name="{20104,102201}" description="{20104,102202}" transport="container" volume="1" tags="module">
+      <price min="341851" average="402178" max="462505"/>
+      <production time="137" amount="1" method="default" name="{20206,101}">
+        <primary>
+          <ware ware="claytronics" amount="77"/>
+          <ware ware="energycells" amount="70"/>
+          <ware ware="hullparts" amount="210"/>
+        </primary>
+      </production>
+      <component ref="landmarks_tel_tradestation_01_ring_inside_ut03_macro"/>
+      <restriction licence="station_gen_advanced"/>
+      <owner faction="teladi"/>
+    </ware>
+  </add>
+</diff>
