@@ -3,7 +3,7 @@
   <add sel="/components/component/connections">
     <connection name="ConnectionSnap_column" tags="snap column_centerring">
       <offset>
-        <position x="0" y="1200" z="0"/>
+        <position x="0" y="1000" z="0"/>
         <rotation yaw="0" pitch="-90" roll="180"/>
       </offset>
     </connection>
