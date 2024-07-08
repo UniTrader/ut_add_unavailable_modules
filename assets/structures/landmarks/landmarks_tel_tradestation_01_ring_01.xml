@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <diff>
+  <!-- reducing size in an attempt to place Pads directly on the Storage of the Ring -->
+  <replace sel="/components/component/connections/connection[@name='Connection03']/parts/part/size/max">
+    <max x="5200" y="5200" z="737.8093"/>
+  </replace>
+  <!-- Adding Snap Points -->
   <add sel="/components/component/connections">
     <connection name="ConnectionSnap_center_ring1" tags="snap outerring_centerring">
       <offset>
