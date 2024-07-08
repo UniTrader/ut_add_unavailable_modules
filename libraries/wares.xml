@@ -1,5 +1,9 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <diff>
+  <!-- Argon Set -->
+  <replace sel="/*/ware[@id='module_arg_stor_tradestation_l_01']/@tags">module</replace>ß
+  <replace sel="/*/ware[@id='module_arg_pier_tradestation_01']/@tags">module</replace>
+  <!-- Teladi Set -->
   <!-- just enabling modules -->
   <replace sel="/*/ware[@id='module_tel_tradestation_conn_bridge_01']/@tags">module</replace>
   <add sel="/*/ware[@id='module_tel_tradestation_conn_bridge_01']">
