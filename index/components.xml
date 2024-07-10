@@ -5,4 +5,5 @@
 	<entry name="landmarks_tel_tradestation_01_ring_inside_ut01_component" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\landmarks_tel_tradestation_01_ring_inside_ut01_component"/>
 	<entry name="landmarks_tel_tradestation_01_ring_inside_ut02_component" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\landmarks_tel_tradestation_01_ring_inside_ut02_component"/>
 	<entry name="landmarks_tel_tradestation_01_ring_inside_ut03_component" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\landmarks_tel_tradestation_01_ring_inside_ut03_component"/>
+	<entry name="dockarea_arg_s_tradestation_ut01_component" value="extensions\ut_add_unavailable_modules\assets\structures\dock\dockarea_arg_s_tradestation_ut01_component"/>
 </index>

@@ -195,5 +195,24 @@
       <restriction licence="station_gen_advanced"/>
       <owner faction="teladi"/>
     </ware>
+    <ware id="module_arg_dock_tradestation_ut01" name="84S Luxury Dock Area - WIP" description="{20104,73302}" transport="container" volume="1" tags="module">
+    <price min="630652" average="741944" max="853236" />
+    <production time="908" amount="1" method="default" name="{20206,101}">
+      <primary>
+        <ware ware="claytronics" amount="116" />
+        <ware ware="energycells" amount="232" />
+        <ware ware="hullparts" amount="424" />
+      </primary>
+    </production>
+    <research time="10">
+      <research>
+        <ware ware="research_module_dock" />
+      </research>
+    </research>
+    <component ref="dockarea_arg_s_tradestation_ut01_macro" />
+    <restriction licence="station_gen_advanced" />
+    <owner faction="antigone" />
+    <owner faction="argon" />
+  </ware>
   </add>
 </diff>

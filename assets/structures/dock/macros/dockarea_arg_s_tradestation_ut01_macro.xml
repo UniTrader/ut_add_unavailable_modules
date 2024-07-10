@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Exported by: Ketraar (192.168.3.68) on 2024-04-24 14:37:16-->
+<macros>
+  <macro name="dockarea_arg_s_tradestation_ut01_macro" class="dockarea">
+    <component ref="dockarea_arg_s_tradestation_ut01_component"/>
+    <properties>
+      <identification name="84S Luxury Dock Area - WIP" shortname="84S Luxury - WIP - WIP" description="{20104,73302}"/>
+      <build>
+        <sets>
+          <set ref="factory"/>
+          <set ref="headquarters_player"/>
+          <set ref="tradestation_argon"/>
+        </sets>
+      </build>
+      <explosiondamage value="10000" shield="50000"/>
+      <storage unit="20"/>
+      <hull max="1100000"/>
+      <secrecy level="3"/>
+      <sounds>
+        <ambient ref="dockingbay_ambient_01"/>
+      </sounds>
+      <sound_occlusion inside="0.2" outside="0.2"/>
+    </properties>
+    <connections>
+      <connection ref="Connection_pad_1-01">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-01">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-01">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-01">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 02 -->
+      <connection ref="Connection_pad_1-02">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-02">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-02">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-02">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 03 -->
+      <connection ref="Connection_pad_1-03">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-03">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-03">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-03">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 04 -->
+      <connection ref="Connection_pad_1-04">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-04">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-04">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-04">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 05 -->
+      <connection ref="Connection_pad_1-05">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-05">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-05">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-05">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 06 -->
+      <connection ref="Connection_pad_1-06">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-06">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-06">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-06">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 07 -->
+      <connection ref="Connection_pad_1-07">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-07">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-07">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-07">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 08 -->
+      <connection ref="Connection_pad_1-08">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-08">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-08">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-08">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 09 -->
+      <connection ref="Connection_pad_1-09">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-09">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-09">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-09">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 10 -->
+      <connection ref="Connection_pad_1-10">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-10">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-10">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-10">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 11 -->
+      <connection ref="Connection_pad_1-11">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-11">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-11">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-11">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 12 -->
+      <connection ref="Connection_pad_1-12">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-12">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-12">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-12">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 13 -->
+      <connection ref="Connection_pad_1-13">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-13">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-13">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-13">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 14 -->
+      <connection ref="Connection_pad_1-14">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-14">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-14">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-14">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 15 -->
+      <connection ref="Connection_pad_1-15">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-15">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-15">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-15">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 16 -->
+      <connection ref="Connection_pad_1-16">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-16">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-16">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-16">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 17 -->
+      <connection ref="Connection_pad_1-17">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-17">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-17">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-17">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 18 -->
+      <connection ref="Connection_pad_1-18">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-18">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-18">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-18">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 19 -->
+      <connection ref="Connection_pad_1-19">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-19">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-19">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-19">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 20 -->
+      <connection ref="Connection_pad_1-20">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-20">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-20">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-20">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <!-- Y = 21 -->
+      <connection ref="Connection_pad_1-21">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_2-21">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_3-21">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="Connection_pad_4-21">
+        <macro ref="dockingbay_arg_s_01_hightech_macro" connection="space"/>
+      </connection>
+      <connection ref="ConnectionFor_room_arg_m_02_tradestation_01_macro">
+        <macro ref="room_arg_m_02_tradestation_01_macro" connection="space"/>
+      </connection>
+      <connection ref="con_shipstorage_s_02">
+        <macro ref="shipstorage_gen_s_02_macro" connection="object"/>
+      </connection>
+      <connection ref="con_shipstorage_s_01">
+        <macro ref="shipstorage_gen_s_02_macro" connection="object"/>
+      </connection>
+      <connection ref="con_shipstorage_xs_01">
+        <macro ref="shipstorage_gen_xs_01_macro" connection="object"/>
+      </connection>
+    </connections>
+  </macro>
+</macros>

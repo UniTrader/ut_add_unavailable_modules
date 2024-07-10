@@ -6,4 +6,5 @@
 	<entry name="landmarks_tel_tradestation_01_ring_inside_ut01_macro" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\macros\landmarks_tel_tradestation_01_ring_inside_ut01_macro"/>
 	<entry name="landmarks_tel_tradestation_01_ring_inside_ut02_macro" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\macros\landmarks_tel_tradestation_01_ring_inside_ut02_macro"/>
 	<entry name="landmarks_tel_tradestation_01_ring_inside_ut03_macro" value="extensions\ut_add_unavailable_modules\assets\structures\landmarks\macros\landmarks_tel_tradestation_01_ring_inside_ut03_macro"/>
+	<entry name="dockarea_arg_s_tradestation_ut01_macro" value="extensions\ut_add_unavailable_modules\assets\structures\dock\macros\dockarea_arg_s_tradestation_ut01_macro"/>
 </index>
