@@ -593,25 +593,25 @@
       </connection>
        <!-- Walkway at X Offset -64 -->
        <!-- dock -40 -->
-      <connection name="Connection_pad_1-11" tags="dockingbay">
+      <connection name="Connection_pad_1-10" tags="dockingbay">
         <offset>
 					<position x="-40" y="51.99981" z="-65"/>
 					<quaternion qx="-0" qy="-1" qz="-0" qw="0"/>
         </offset>
       </connection>
-      <connection name="Connection_pad_2-11" tags="dockingbay">
+      <connection name="Connection_pad_2-10" tags="dockingbay">
         <offset>
 					<position x="-40" y="51.99981" z="-20"/>
 					<quaternion qx="-0" qy="-1" qz="-0" qw="0"/>
         </offset>
       </connection>
-      <connection name="Connection_pad_3-11" tags="dockingbay">
+      <connection name="Connection_pad_3-10" tags="dockingbay">
         <offset>
 					<position x="-40" y="51.99981" z="25"/>
 					<quaternion qx="-0" qy="-1" qz="-0" qw="0"/>
         </offset>
       </connection>
-      <connection name="Connection_pad_4-11" tags="dockingbay">
+      <connection name="Connection_pad_4-10" tags="dockingbay">
         <offset>
 					<position x="-40" y="51.99981" z="70"/>
 					<quaternion qx="-0" qy="-1" qz="-0" qw="0"/>
