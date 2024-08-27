@@ -311,11 +311,11 @@
               </lod>
             </lods>
             <size>
-              <max x="10000" y="10000" z="10000"/>
+              <max x="10" y="10" z="10"/>
               <center x="0" y="0" z="0"/>
             </size>
             <size_raw>
-              <max x="10000" y="10000" z="10000"/>
+              <max x="10" y="10" z="10"/>
               <center x="0" y="0" z="0"/>
             </size_raw>
           </part>
@@ -337,11 +337,11 @@
               </lod>
             </lods>
             <size>
-              <max x="10000" y="10000" z="10000"/>
+              <max x="10" y="10" z="10"/>
               <center x="0" y="0" z="0"/>
             </size>
             <size_raw>
-              <max x="10000" y="10000" z="10000"/>
+              <max x="10" y="10" z="10"/>
               <center x="0" y="0" z="0"/>
             </size_raw>
           </part>
