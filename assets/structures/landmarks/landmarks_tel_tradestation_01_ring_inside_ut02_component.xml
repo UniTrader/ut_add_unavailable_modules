@@ -137,7 +137,7 @@
       <connection name="space" tags="habitation">
         <offset/>
       </connection>
-      <connection name="Connection_rotate" tags="part animation nocollision detail_xs ">
+      <connection name="Connection_rotate" hidden="true" tags="part animation nocollision detail_xs ">
         <offset/>
         <animations>
           <animation name="loop" start="1" end="20000"/>
@@ -153,11 +153,37 @@
               </lod>
             </lods>
             <size>
-              <max x="30.92752" y="30.92752" z="30"/>
+              <max x="10000" y="10000" z="10000"/>
               <center x="0" y="0" z="0"/>
             </size>
             <size_raw>
-              <max x="30" y="30" z="30"/>
+              <max x="10000" y="10000" z="10000"/>
+              <center x="0" y="0" z="0"/>
+            </size_raw>
+          </part>
+        </parts>
+        <waypoints/>
+      </connection>
+      <connection name="Connection_visfix" tags="part nocollision detail_xs " parent="anim_innerarea">
+        <offset>
+          <position x="0" y="900" z="0"/>
+        </offset>
+        <parts>
+          <part name="visfix" wreck="visfix">
+            <lods>
+              <lod index="0">
+                <materials>
+                  <material id="1" ref="generic.generic_p1_alphatexture"/>
+                  <material id="2" ref="generic.generic_p1_hulltexture"/>
+                </materials>
+              </lod>
+            </lods>
+            <size>
+              <max x="10000" y="10000" z="10000"/>
+              <center x="0" y="0" z="0"/>
+            </size>
+            <size_raw>
+              <max x="10000" y="10000" z="10000"/>
               <center x="0" y="0" z="0"/>
             </size_raw>
           </part>
